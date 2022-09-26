@@ -39,8 +39,9 @@ button:hover {
   background-image: url(main.jpg);
    background-repeat: no-repeat;
    background-size: 500px 500px;
-   min-height: 130vh;
+   min-height: 135vh;
    background-position: center; 
+   margin: 0;
  
  
 }
